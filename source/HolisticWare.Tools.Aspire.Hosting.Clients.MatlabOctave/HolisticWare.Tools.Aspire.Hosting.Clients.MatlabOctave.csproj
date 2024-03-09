@@ -64,25 +64,25 @@
     https://github.com/dotnet/maui/blob/main/src/Templates/src/Microsoft.Maui.Templates.csproj
     -->
     <PackageId>
-      HolisticWare.Tools.Aspire.Hosting.Clients.Python
+      HolisticWare.Tools.Aspire.Hosting.Clients.MatlabOctave
     </PackageId>
     <Title>
-      HolisticWare.Tools.Aspire.Hosting.Clients.Python
+      HolisticWare.Tools.Aspire.Hosting.Clients.MatlabOctave
     </Title>
     <summary>
-      C# (managed) API for Python and Aspire integration
+      C# (managed) API for MatlabOctave and Aspire integration
     </summary>
     <Description>
-      C# (managed) API for Python and Aspire integration
+      C# (managed) API for MatlabOctave and Aspire integration
     </Description>
     <Owners>moljac, HolisticWare, Xamarin, Microsoft</Owners>
     <Authors>moljac, HolisticWare, Xamarin, Microsoft</Authors>
     <Copyright>2024</Copyright>
     <ProjectUrl>
-      https://github.com/HolisticWare-Xamarin-Tools/HolisticWare.Tools.Aspire.Hosting.Clients.Python
+      https://github.com/HolisticWare-Xamarin-Tools/HolisticWare.Tools.Aspire.Hosting.Clients.MatlabOctave
     </ProjectUrl>
     <RepositoryUrl>
-      https://github.com/HolisticWare-Xamarin-Tools/HolisticWare.Tools.Aspire.Hosting.Clients.Python
+      https://github.com/HolisticWare-Xamarin-Tools/HolisticWare.Tools.Aspire.Hosting.Clients.MatlabOctave
     </RepositoryUrl>
     <iconUrl>
       https://secure.gravatar.com/avatar/b662959e712466f393541935b664d3c5
@@ -102,7 +102,7 @@
     </PackageProjectUrl>
     <license>MIT</license>
     <licenseUrl>
-      https://github.com/HolisticWare-Xamarin-Tools/HolisticWare.Tools.Aspire.Hosting.Clients.Python/blob/main/LICENSE
+      https://github.com/HolisticWare-Xamarin-Tools/HolisticWare.Tools.Aspire.Hosting.Clients.MatlabOctave/blob/main/LICENSE
     </licenseUrl>
     <VersionPrefix>$(VersionCompoundMain)</VersionPrefix>
     <!--
@@ -112,7 +112,7 @@
     <PackageVersion>$(VersionPrefix)-$(VersionSuffix)</PackageVersion>
     <PackageTags>
       moljac, holisticware, microsoft,
-      aspire, Python,
+      aspire, MatlabOctave,
       template,
       architecture,
       project strucutre,
